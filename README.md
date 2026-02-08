@@ -35,7 +35,7 @@ I don't just write code; I build digital solutions that solve real-world busines
 ---
 
 ### 🤝 Let's Connect
-- 🌐 [View my Interactive Portfolio](https://lilimfobo.github.io/portfolio)
+- 🌐 [View my Interactive Portfolio](https://zintlemfobo.netlify.app/)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/zintlemfobo)
 - 📧 Reach out at: **zintlemfobo@gmail.com**
 
